@@ -1,6 +1,6 @@
 body {
   font-family: arial, sans-serif;
-  background-image: url(img/clouds.jpg);
+  background-image: url(/img/clouds.jpg);
   background-color: #c7b39b; /* Цвет фона */
 }
 
