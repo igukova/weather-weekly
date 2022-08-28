@@ -5,12 +5,13 @@ body {
 }
 
 h1 {
-  color: #0a0fa0;
+  color: #f5f5f9;
   font-family: Kaushan Script;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
   margin-bottom: 0;
+  padding: 0 30px;
 }
 
 ul {
@@ -21,9 +22,9 @@ ul {
 li {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 0 30px;
 
-  color: #0a0fa0;
+  color: #f5f5f9;
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -113,7 +114,7 @@ li:first-letter {
   font-size: 24px;
 }
 .units > a:hover {
-  color: #ec6e4c;
+  color: #f5f5f9;
 }
 button {
   border-radius: 2px;
