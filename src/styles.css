@@ -74,7 +74,7 @@ li:first-letter {
 }
 
 .weather-temperature .active {
-  color: rgb(33, 33, 33);
+  color: #0a0fa0;
   cursor: default;
 }
 
