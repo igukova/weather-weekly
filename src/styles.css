@@ -94,3 +94,19 @@ li:first-letter {
 .weather-forecast-temperatures {
   font-size: 13px;
 }
+.units {
+  position: relative;
+  top: -17px;
+  color: #101c62;
+  font-weight: 600;
+  font-size: 24px;
+}
+.units > a {
+  text-decoration: none;
+  color: #101c6267;
+  font-weight: 600;
+  font-size: 24px;
+}
+.units > a:hover {
+  color: #ec6e4c;
+}
