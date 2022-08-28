@@ -1,11 +1,12 @@
 body {
-  font-family: arial, sans-serif;
+  font-family: Kaushan Script;
   background-image: url(/img/clouds.jpg);
-  background-color: #c7b39b; /* Цвет фона */
+  background-color: #c7b39b;
 }
 
 h1 {
-  color: #474545;
+  color: #0a0fa0;
+  font-family: Kaushan Script;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -22,7 +23,7 @@ li {
   margin: 0;
   padding: 0;
 
-  color: rgb(135, 135, 135);
+  color: #0a0fa0;
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -59,7 +60,7 @@ li:first-letter {
 }
 
 .weather-temperature strong {
-  color: rgb(33, 33, 33);
+  color: #0a0fa0;
   font-size: 64px;
   line-height: 1;
   font-weight: 400;
